@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "image": "https://qarabagh.com/uploads/catalog/Musa_Gurbanli.jpg",
+    "title": "Musa Qurbanlı",
+    "position": "Hücumçu"
+  },
+  {
+    "id": 2,
+    "image": "https://qarabagh.com/uploads/catalog/Owusu_Kwabena.jpg",
+    "title": "Ovusu Kvabena",
+    "position": "Hücumçu"
+  },
+  {
+    "id": 3,
+    "image": "https://qarabagh.com/uploads/catalog/Nariman_Akhundzade.jpg",
+    "title": "Nəriman Axundzadə",
+    "position": "Hücumçu"
+  },
+  {
+    "id": 4,
+    "image": "https://qarabagh.com/uploads/catalog/Ramil_Sheidaev.jpg",
+    "title": "Ramil Şeydayev",
+    "position": "Hücumçu"
+  },
+  {
+    "id": 5,
+    "image": "https://m.footballdatabase.eu/images/photos/players/2020-2021/a_212/212231.jpg",
+    "title": "Adama Diakabi",
+    "position": "Hücumçu"
+  },
+  {
+    "id": 6,
+    "image": "https://m.footballdatabase.eu/images/photos/players/2019-2020/a_243/243035.jpg",
+    "title": "Qaspar Panadero",
+    "position": "Yarımmüdafiəçi"
+  },
+  {
+    "id": 7,
+    "image": "https://qarabagh.com/uploads/catalog/Abdellah_Zoubir.jpg",
+    "title": "Abdullah Zubir",
+    "position": "Yarımmüdafiəçi"
+  },
+  {
+    "id": 8,
+    "image": "https://qarabagh.com/uploads/catalog/Leandro_Andrade.jpg",
+    "title": "Leandro Andrade",
+    "position": "Yarımmüdafiəçi"
+  },
+  {
+    "id": 9,
+    "image": "https://qarabagh.com/uploads/catalog/Filip_Ozobic.jpg",
+    "title": "Filip Ozobiç",
+    "position": "Yarımmüdafiəçi"
+  },
+  {
+    "id": 10,
+    "image": "https://qarabagh.com/uploads/catalog/Richard_Almeida.jpg",
+    "title": "Riçard Almeyda",
+    "position": "Yarımmüdafiəçi"
+  },
+  {
+    "id": 11,
+    "image": "https://qarabagh.com/uploads/catalog/Ismayil_Ibrahimli.jpg",
+    "title": "İsmayıl İbrahimli",
+    "position": "Yarımmüdafiəçi"
+  },
+  {
+    "id": 12,
+    "image": "https://qarabagh.com/uploads/catalog/Marko_Jankovic.jpg",
+    "title": "Marko Yankoviç",
+    "position": "Yarımmüdafiəçi"
+  },
+  {
+    "id": 13,
+    "image": "https://qarabagh.com/uploads/catalog/julio_romao.jpg",
+    "title": "Julio Romao",
+    "position": "Yarımmüdafiəçi"
+  },
+  {
+    "id": 14,
+    "image": "https://qarabagh.com/uploads/catalog/Gara_Garayev.jpg",
+    "title": "Qara Qarayev",
+    "position": "Yarımmüdafiəçi"
+  },
+  {
+    "id": 15,
+    "image": "https://qarabagh.com/uploads/catalog/Abbas_Huseynov.jpg",
+    "title": "Abbas Hüseynov",
+    "position": "Müdafiəçi"
+  },
+  {
+    "id": 16,
+    "image": "https://qarabagh.com/uploads/catalog/Marko_Vesovic.jpg",
+    "title": "Marko Veşoviç",
+    "position": "Müdafiəçi"
+  },
+  {
+    "id": 17,
+    "image": "https://qarabagh.com/uploads/catalog/Elvin_Jafarguliyev.jpg",
+    "title": "Elvin Cəfərquliyev",
+    "position": "Müdafiəçi"
+  },
+  {
+    "id": 18,
+    "image": "https://qarabagh.com/uploads/catalog/Toral_Bayramov2.jpg",
+    "title": "Toral Bayramov",
+    "position": "Müdafiəçi"
+  },
+  {
+    "id": 19,
+    "image": "https://qarabagh.com/uploads/catalog/Maksim_Medvedev3.jpg",
+    "title": "Maksim Medvedev",
+    "position": "Müdafiəçi"
+  },
+  {
+    "id": 20,
+    "image": "https://qarabagh.com/uploads/catalog/Rahil_Mammadov.jpg",
+    "title": "Rahil Məmmədov",
+    "position": "Müdafiəçi"
+  },
+  {
+    "id": 21,
+    "image": "https://qarabagh.com/uploads/catalog/Badavi_Huseynov.jpg",
+    "title": "Bədavi Hüseynov",
+    "position": "Müdafiəçi"
+  },
+  {
+    "id": 22,
+    "image": "https://qarabagh.com/uploads/catalog/Bahlul_Mustafazade.jpg",
+    "title": "Bəhlul Mustafazadə",
+    "position": "Müdafiəçi"
+  },
+  {
+    "id": 23,
+    "image": "https://qarabagh.com/uploads/catalog/kevin_medina3.jpg",
+    "title": "Kevin Medina",
+    "position": "Müdafiəçi"
+  },
+  {
+    "id": 24,
+    "image": "https://qarabagh.com/uploads/catalog/Shahrudin_Magomedaliyev.jpg",
+    "title": "Şahrudin Məhəmmədəliyev",
+    "position": "Qapıçı"
+  },
+  {
+    "id": 25,
+    "image": "https://qarabagh.com/uploads/catalog/Luka_Gugeshasvili1.jpg",
+    "title": "Luka Quqeşaşvili",
+    "position": "Qapıçı"
+  },
+  {
+    "id": 26,
+    "image": "https://qarabagh.com/uploads/catalog/Amin_Ramazanov2.jpg",
+    "title": "Amin Ramazanov",
+    "position": "Qapıçı"
+  }
+]
